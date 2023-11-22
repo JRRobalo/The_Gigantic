@@ -17,7 +17,7 @@ Can we <b>predict those who survived</b>?
     * FAMILY (SIBSP and PARCH, related to total number of the passengers' spouses, siblings, parents, and children aboard the Titanic), and 
     * FARE (ticket price);
 * the data was modeled with a cross-validated Logistic Regression, with a final f1 score of 0.86 (died) and 0.69 (survived);
-* the Kaggle score on the (unseen) dataset is 0.79.
+* the Kaggle score on the (unseen) dataset is 0.79 (top 8% as of submission date).
 ***
 <b>Classification report for predictions on trial data (split from the provided training data):</b>
 
